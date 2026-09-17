@@ -1,0 +1,10 @@
+dog
+giraffe
+dog
+cat
+cow
+wolf
+monkey
+dog
+cat
+bird
